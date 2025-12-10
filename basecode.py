@@ -66,7 +66,7 @@ WEIGHTS = {
 
     "Predictive Control": 1.3, 
 
-@@ -28,17 +30,15 @@ 
+ -28,17 +30,15,
 
     "Resignation / Normalisation": 0.9 
 
@@ -114,7 +114,7 @@ with st.form("oss_form"):
 
     for dim, desc in DIMENSIONS.items(): 
 
-@@ -54,29 +54,29 @@ 
+ -54,29 +54,29
 
   
 
@@ -190,7 +190,7 @@ if submitted:
 
     else: 
 
-@@ -86,21 +86,33 @@ 
+ -86,21 +86,33
 
             "for chilling effects and systemic control." 
 
