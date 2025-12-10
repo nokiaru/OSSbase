@@ -66,7 +66,7 @@ WEIGHTS = {
 
     "Predictive Control": 1.3, 
 
- -28,17 +30,15,
+ -28,17 +30,15
 
     "Resignation / Normalisation": 0.9 
 
