@@ -42,9 +42,9 @@ DIMENSIONS = {
 
     "Trust in State / Institutions": "How much power over data and surveillance is given to state or major institutions?", 
 
-    "Resignation / Normalisation": "Do people feel that surveillance is inevitable and unchangeable?" 
+    "Resignation / Normalisation": "Do people feel that surveillance is inevitable and unchangeable?", 
 
-    "Self-Censorship": "Do people change what they say or do because they feel watched?", 
+    "Self-Censorship": "Do people change what they say or do because they feel watched?",
 
     "Datafication": "How fully are people reduced to data points or algorithmic profiles?", 
 
