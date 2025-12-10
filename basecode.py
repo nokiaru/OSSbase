@@ -102,7 +102,7 @@ with st.form("oss_form"):
 
     for dim, desc in DIMENSIONS.items(): 
 
- -54,29 +54,29
+ -54,29, +54,29
 
   
 
