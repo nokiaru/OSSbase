@@ -60,18 +60,6 @@ DIMENSIONS = {
 
 # --- Weights (you can tweak these later based on theory) --- 
 
-WEIGHTS = { 
-
-    "Visibility / Monitoring": 1.2, 
-
-    "Predictive Control": 1.3, 
-
- -28,17 +30,15
-
-    "Resignation / Normalisation": 0.9 
-
-} 
-
   
 
 MAX_SCORE_PER_DIM = 4 # 0–4 Likert scale 
