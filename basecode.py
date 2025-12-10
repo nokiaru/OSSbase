@@ -102,9 +102,7 @@ with st.form("oss_form"):
 
     for dim, desc in DIMENSIONS.items(): 
 
- -54,29, +54,29
 
-  
 
     submitted = st.form_submit_button("Calculate OSS score") 
 
